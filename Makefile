@@ -1,2 +1,2 @@
-hello: main.c
-	gcc -Wall -Werror -o hello main.c
+prog : main.c
+	gcc -Wall -Werror -o main main.c
